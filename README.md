@@ -12,7 +12,7 @@
 | [8. Машинное обучение в бизнесе](https://nbviewer.org/github/GrishaTS/Ya-Practicum-DS/blob/55a1b4570e8d8c1d2616896df49186ea4a8178ee/8.%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5/ml_in_business.ipynb) || `pandas`, `numpy`, `optuna`, `shap`, `plotly`, `phik`, `statsmodels`, `sklearn` |
 | [9. Базовый SQL](https://github.com/GrishaTS/Ya-Practicum-DS/blob/d8f002b8577c829ff2586ccb5c78b7e7487dd95d/09.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20SQL/README.md) || `Группировка`, `Объединение таблиц`, `Подзапросы`, `Оконные функции`, `Работа с датами`, `CASE`, `Объединение запросов`, `CTE`, `Работа с текстом` |
 | [10. Численные методы](https://nbviewer.org/github/GrishaTS/Ya-Practicum-DS/blob/13ef7cb5f7399f85ba3aa2d277b3c27e3f4866b0/10.%20%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/numerical_methods.ipynb) ||  |
-| [11. Временные ряды]() ||  |
+| [11. Временные ряды](https://nbviewer.org/github/GrishaTS/Ya-Practicum-DS/blob/6017f5cadb6b62b618ff83f3cfb58081cbb7339d/11.%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B/time_series.ipynb) ||  |
 | []() ||  |
 | []() ||  |
 | []() ||  |
