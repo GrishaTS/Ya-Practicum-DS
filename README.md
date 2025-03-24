@@ -13,7 +13,7 @@
 | [9. Базовый SQL](https://github.com/GrishaTS/Ya-Practicum-DS/blob/d8f002b8577c829ff2586ccb5c78b7e7487dd95d/09.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20SQL/README.md) || `Группировка`, `Объединение таблиц`, `Подзапросы`, `Оконные функции`, `Работа с датами`, `CASE`, `Объединение запросов`, `CTE`, `Работа с текстом` |
 | [10. Численные методы](https://nbviewer.org/github/GrishaTS/Ya-Practicum-DS/blob/13ef7cb5f7399f85ba3aa2d277b3c27e3f4866b0/10.%20%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/numerical_methods.ipynb) || `missingno`, `numpy`, `optuna`, `pandas`, `phik`, `plotly`, `requests`, `shap`, `category_encoders`, `catboost`, `lightgbm`, `scikit-learn`, `statsmodels`, `xgboost` |
 | [11. Временные ряды](https://nbviewer.org/github/GrishaTS/Ya-Practicum-DS/blob/6017f5cadb6b62b618ff83f3cfb58081cbb7339d/11.%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B/time_series.ipynb) || `numpy`, `optuna`, `pandas`, `phik`, `plotly`, `requests`, `shap`, `catboost`, `category_encoders`, `lightgbm`, `scikit-learn`, `statsmodels` |
-| []() ||  |
+| [12. Машинное обучение для текстов](https://nbviewer.org/github/GrishaTS/Ya-Practicum-DS/blob/2c6e584eae89db5f1c72f2c1ec91fec6689ab500/12.%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2/machine_learning_for_texts.ipynb) ||  |
 | []() ||  |
 | []() ||  |
 | []() ||  |
