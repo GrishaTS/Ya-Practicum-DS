@@ -5,9 +5,9 @@
 # Добейтесь того, чтобы значение accuracy на тестовой выборке было не меньше 85%.
 # Отправьте ваш код в файле с расширением .py .
 
-from keras.datasets import fashion_mnist
-from keras.layers import Dense
-from keras.models import Sequential
+from tensorflow.keras.datasets import fashion_mnist
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.models import Sequential
 import numpy as np
 
 def load_train(path):
@@ -21,13 +21,11 @@ def create_model(input_shape):
     model = Sequential()
     model.add(Dense(256, input_shape=input_shape, activation='relu'))
     model.add(Dense(10, input_shape=input_shape, activation='softmax'))
-    model.compile(optimizer='sgd', loss='sparse_categorical_crossentropy',
-                  metrics=['acc'])
-
+    model.compile(optimizer='sgd', loss='sparse_categorical_crossentropy', metrics=['acc'])
     return model
 
 
-def train_model(model, train_data, test_data, batch_size=32, epochs=5,
+def train_model(model, train_data, test_data, batch_size=32, epochs=10,
                steps_per_epoch=None, validation_steps=None):
 
     features_train, target_train = train_data
@@ -40,3 +38,6 @@ def train_model(model, train_data, test_data, batch_size=32, epochs=5,
               verbose=2, shuffle=True)
 
     return model
+
+
+
