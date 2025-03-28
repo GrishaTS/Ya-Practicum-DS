@@ -8,3 +8,4 @@ pattern.ipynb
 catboost_info
 lemmatized_text.csv
 appa-real-release
+*.h5
