@@ -1,4 +1,4 @@
-# Yandex Practicum Data Science
+# [Yandex Practicum Data Science](https://github.com/GrishaTS/Ya-Practicum-DS)
 
 Все представленные проекты выполнены в рамках курса «[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/)» от Яндекс Практикума. Каждый из них реализован с превышением требований технического задания, с особым вниманием к качеству кода, интерпретации результатов и визуализации.
 
